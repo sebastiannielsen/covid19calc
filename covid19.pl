@@ -62,7 +62,7 @@ $bt = substr($bt,0,1);
 $ag = substr($ag,0,1);
 $g = substr($g,0,1);
 
-print "Content-Type: text/html\n\n<html><head><title>COVID-19 Infection Risk Calculator</title></head><body>";
+print "Content-Type: text/html\n\n<html><head><title>COVID-19 Infection Risk Calculator</title></head><body bgcolor='#FFFFFF'>";
 print "<h1>COVID-19 Infektionsriskkalkylator / Infection Risk Calculator</h1>";
 
 if ($s eq "1") {

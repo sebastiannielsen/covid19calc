@@ -107,7 +107,7 @@ print "K&ouml;n / Gender:<br>";
 print "<input type='radio' name='g' value='0' checked> Man / Male<br>";
 print "<input type='radio' name='g' value='1'> Kvinna / Female<br>";
 print "<input type='hidden' name='s' value='1'>";
-print "<br><br><input type='submit'></fotm>";
+print "<br><br><input type='submit'></form></font>";
 
 }
 print "<br><br>Source code: <a href='https://github.com/sebastiannielsen/covid19calc/'>https://github.com/sebastiannielsen/covid19calc/</a>";
